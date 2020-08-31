@@ -1,3 +1,2 @@
 # title-changer
-Title changer used on my portfolio
-Simple text animation using javascript and anime.js
+Title changer is a simple text animation used on my portfolio using javascript and anime.js
